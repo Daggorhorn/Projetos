@@ -1,4 +1,4 @@
-```md
+
 # ⚙️ Algoritmos e Lógica de Programação
 
 ## 📌 Sobre o repositório
@@ -30,7 +30,7 @@ Desenvolver habilidades fundamentais para programação, como:
 ---
 
 ## 🛠️ Tecnologias
-- C
+- Linguagem C
 
 ---
 
@@ -40,5 +40,3 @@ Cada solução foi desenvolvida com foco em:
 - Clareza
 - Eficiência
 - Boas práticas
-
-```
